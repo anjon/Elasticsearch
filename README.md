@@ -1,5 +1,6 @@
 # ELK/EFK
 Elasticsearch,Logstash,Kibana / Elasticsearch,Filebeat,Kibana
+![alt text](https://github.com/anjon/Elasticsearch/blob/main/elk_stack.png "ELK/EFK")
 
 #### Install ELK 
 ```sh
