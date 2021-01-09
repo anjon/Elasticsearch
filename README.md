@@ -72,5 +72,5 @@ server {
 sudo systemctl restart nginx.service
 sudo systemctl status nginx.service
 ```
-* Now we should be able to access our kibana dasahboard via the nginx reverse proxy using the ip*
+*Now we should be able to access our kibana dasahboard via the nginx reverse proxy using the ip*
 **http://192.168.1.110**
